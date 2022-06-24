@@ -1,0 +1,24 @@
+div.content{
+  width: 100%;
+  min-height: 90vh;
+
+  padding-top: 2vh;
+}
+
+div.programming,  div.cooking{
+  width: auto;
+  min-height: 30vh;
+  
+  border: 2px solid black;
+  margin: 2vw;
+
+  
+}
+
+span.heading{
+  text-align: center;
+}
+
+.heading h2{
+  font-size: var(--font-Xlarge);
+}
