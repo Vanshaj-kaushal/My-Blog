@@ -50,7 +50,8 @@ header ul li a{
 
 footer{
   max-height: 5vh;
-  padding: 1vh;
+  padding-top: 1vh;
+  padding-bottom: .2vh;
 
   background: var(--color-bg-power);
   color: var(--color-text);

@@ -1,0 +1,20 @@
+div.card{
+  min-width: 30vw;
+  min-height: 30vh;
+
+  margin: 1vw;
+  padding: 1vw;
+
+  box-shadow: 0 0 .5vw #383838;
+  border-radius: 1vw;
+}
+
+div.card-heading{
+  text-align: center;
+  font-size: var(--font-medium);
+}
+
+div.card-content{
+  margin: 1vw;
+  font-size: var(--font-medium);
+}
